@@ -13,7 +13,6 @@ It converts long URLs into short 7-character URLs and redirects users back to th
   - Same long URL → same short URL  
 - URL validation using Hibernate Validator  
 - MySQL persistence using JPA  
-- Auto-generated timestamps  
 - Frontend-ready redirect behavior (302)
 
 ---
